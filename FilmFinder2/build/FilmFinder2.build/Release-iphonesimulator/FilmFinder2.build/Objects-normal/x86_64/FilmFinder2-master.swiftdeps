@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "61929a9e26c3e943543387e7e2e2b4ae"
+build_time: [534289762, 715114000]
+inputs: 
+	"/Users/omarayman/Desktop/Computer/GUC INTRANET/Advanced Computer lab/FilmFinder2/FilmFinder2/ViewController.swift": !private [534288500, 0]
+	"/Users/omarayman/Desktop/Computer/GUC INTRANET/Advanced Computer lab/FilmFinder2/FilmFinder2/AppDelegate.swift": !dirty [534273434, 0]
